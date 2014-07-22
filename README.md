@@ -1,6 +1,6 @@
 deleteFile
 ==========
-author yulong
-time 2014-7-19
-This is a windows script coded on Jscript.
+author CyL0NG
+
+This is a windows script coded in Jscript.
 It can be used to delete files in target folder automatically.

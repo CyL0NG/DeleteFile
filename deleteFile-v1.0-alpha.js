@@ -1,7 +1,7 @@
 fso = new ActiveXObject("Scripting.FileSystemObject");
 
 var today = new Date();         //get current date
-//參數設定
+//parameter configuration
 var timeUnit = "isDay";         //time unit configuration，value available: isSecond,isMinute,isHour,isDay,isMonth,isYear
 var delTime = 1;                // use it with timeUnit to determine the files before which time to delete.
 var startFolder = "c:\\storage";        //the target folder
